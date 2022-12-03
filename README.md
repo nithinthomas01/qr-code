@@ -2,7 +2,7 @@
 
 REQUIREMENT
 
-       Python (version 3.2)
+       Python (version 3.11.0)
        
       libraries
           import qrcode
