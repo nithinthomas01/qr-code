@@ -1,5 +1,11 @@
 # qr-code
-import libraries
-  import sys
-  import cv2
-  import qrcode
+
+REQUIREMENT
+
+       Python (version 3.2)
+       
+      libraries
+          import qrcode
+          import cv2
+          import sys
+         
